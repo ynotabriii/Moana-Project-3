@@ -1,0 +1,40 @@
+body{
+    background-color: #FFCF9D;
+    font-family: georgia;
+    font-size: 1.25rem;
+    color: #DE8F5F;
+}
+.profilePic{
+    border-radius: 50%;
+    height: 400px;
+    width: 400px;
+}
+.profileAlignment{
+    padding-left: 20%;
+    padding-right: 20%;
+    text-align: center;
+}
+a:hover{
+    color: #DE8F5F;
+}
+a:visited{
+    color: #DE8F5F;
+}
+a:link{
+    color: #DE8F5F;
+}
+.lineColor{
+    background-color: #d48056;
+    height: 2px;
+}
+.familyPic{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+.noDot{
+    list-style-type: none;
+}
+.tableWid{
+    width: 950px;
+}
